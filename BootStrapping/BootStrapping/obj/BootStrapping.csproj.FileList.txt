@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\BootStrapping.dll
+bin\Debug\BootStrapping.pdb
+obj\Debug\BootStrapping.dll
+obj\Debug\BootStrapping.pdb
+bin\Debug\ProgressReporter.dll
+bin\Debug\ProgressReporter.pdb

@@ -1,0 +1,7 @@
+G:\Ph. D. Code Base\BootStrapping\BootStrapping\bin\Debug\BootStrapping.dll
+G:\Ph. D. Code Base\BootStrapping\BootStrapping\bin\Debug\BootStrapping.pdb
+G:\Ph. D. Code Base\BootStrapping\BootStrapping\bin\Debug\ProgressReporter.dll
+G:\Ph. D. Code Base\BootStrapping\BootStrapping\bin\Debug\ProgressReporter.pdb
+G:\Ph. D. Code Base\BootStrapping\BootStrapping\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\BootStrapping\BootStrapping\obj\Debug\BootStrapping.dll
+G:\Ph. D. Code Base\BootStrapping\BootStrapping\obj\Debug\BootStrapping.pdb

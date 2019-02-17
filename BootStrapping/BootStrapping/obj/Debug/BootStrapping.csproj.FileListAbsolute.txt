@@ -1,0 +1,7 @@
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrapping\bin\Debug\BootStrapping.dll
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrapping\bin\Debug\BootStrapping.pdb
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrapping\bin\Debug\ProgressReporter.dll
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrapping\bin\Debug\ProgressReporter.pdb
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrapping\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrapping\obj\Debug\BootStrapping.dll
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrapping\obj\Debug\BootStrapping.pdb

@@ -1,0 +1,14 @@
+bin\Debug\BootStrappingApplication.exe
+bin\Debug\BootStrappingApplication.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BootStrappingApplication.Form1.resources
+obj\Debug\BootStrappingApplication.Properties.Resources.resources
+obj\Debug\BootStrappingApplication.csproj.GenerateResource.Cache
+obj\Debug\BootStrappingApplication.exe
+obj\Debug\BootStrappingApplication.pdb
+bin\Debug\BootStrapping.dll
+bin\Debug\ProgressReporter.dll
+bin\Debug\QDataTableSelectorDialog.dll
+bin\Debug\QDataTableSelectorDialog.pdb
+bin\Debug\ProgressReporter.pdb
+bin\Debug\BootStrapping.pdb

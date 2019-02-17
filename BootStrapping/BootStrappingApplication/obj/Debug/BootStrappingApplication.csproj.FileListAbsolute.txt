@@ -1,0 +1,15 @@
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\obj\Debug\BootStrappingApplication.exe
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\obj\Debug\BootStrappingApplication.pdb
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\BootStrappingApplication.exe
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\BootStrappingApplication.pdb
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\BootStrapping.dll
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\ProgressReporter.dll
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\QDataTableSelectorDialog.dll
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\ProgressReporter.pdb
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\QDataTableSelectorDialog.pdb
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\bin\Debug\BootStrapping.pdb
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\obj\Debug\BootStrappingApplication.Form1.resources
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\obj\Debug\BootStrappingApplication.Properties.Resources.resources
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Wajahat\Bioinformatics\BootStrapping\BootStrappingApplication\obj\Debug\GenerateResource-ResGen.write.1.tlog
